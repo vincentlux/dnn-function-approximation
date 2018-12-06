@@ -1,3 +1,3 @@
 # dnn-function-approximation
-Pytorch implementation of Deep Neural Network using function approximation theory.
+Pytorch implementation of deep neural network using function approximation theory.
 
